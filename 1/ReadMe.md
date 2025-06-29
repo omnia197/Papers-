@@ -104,7 +104,7 @@ Noting that we are dealing with so small sized dataset of ~100 images splitted i
 <br>
 <p align="center">
   <img src="images/cats.jpg"><br>
-  <strong>Model Structure</strong> Dog
+  <strong>sample</strong> 
 </p>
 <br>
 
