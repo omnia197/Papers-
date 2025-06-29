@@ -39,7 +39,7 @@ AlexNet is a deep convolutional neural network with the following key characteri
 
 <br>
 <p align="center">
-  <img src="images/modelStructure.jpg" width="300"><br>
+  <img src="images/modelStructure.jpg"><br>
   <strong>Figure:</strong>Basic AlexNet Model Structure
 </p>
 <br>
@@ -103,7 +103,7 @@ Below are the training losses over 10 epochs:
 Noting that we are dealing with so small sized dataset of ~100 images splitted into 80% train, 10% val and 10% test. you can view sample of it in the figure below:
 <br>
 <p align="center">
-  <img src="images/cats.jpg" width="300"><br>
+  <img src="images/cats.jpg"><br>
   <strong>Model Structure</strong> Dog
 </p>
 <br>
