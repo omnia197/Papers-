@@ -6,9 +6,6 @@ As I am learning deep learning and found that it is very important in solving pr
 
 This paper, written by *Shiv Ram Dubey*, *Satish Kumar Singh*, and *Bidyut Baran Chaudhuri*, gives a deep look at activation functions. It explains how they work, the different types that exist(There are ~40 or more acivation function which feels like Ahhhh!!), their strengths and weaknesses, and which ones work best in different situations. It also includes many experiments that compare these functions on tasks like image classification, language translation, and speech recognition
 
-Paper link: [arXiv:2109.14545](https://arxiv.org/abs/2109.14545)  
-Paper Code: [GitHub Repository](https://github.com/shivram1987/ActivationFunctions)
-
 ---
 
 ## Why Activation Functions Are So Important
